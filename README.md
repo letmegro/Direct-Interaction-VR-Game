@@ -6,6 +6,3 @@ This VR game was a fourth year VR project, an experimental game to learn Unity a
 - Blender
 - Audacity
 - Unity 3D (URP)
-
-## Video Demo
-Please view in the video section
