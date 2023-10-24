@@ -8,6 +8,4 @@ This VR game was a fourth year VR project, an experimental game to learn Unity a
 - Unity 3D (URP)
 
 ## Video Demo
-> Below You can view a video of a short gameplay, testing out different features of the game
-
-*to be added*
+Please view in the video section
